@@ -1,0 +1,7 @@
+{
+  "detect_language": "http://127.0.0.1:8001",
+  "sv_sentiment": "http://127.0.0.1:8004",
+  "eng_sentiment": "http://127.0.0.1:8003",
+  "topic": "http://127.0.0.1:8002",
+  "summarize_text": "http://127.0.0.1:8010"
+}
